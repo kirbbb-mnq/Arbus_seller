@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 import random
-bot=telebot.TeleBot("5814421601:AAGbkCVltCT7dzE6YIXgAPOEWbSnuQTzrAM")
+bot=telebot.TeleBot("Bot token")
 
 da1 = types.KeyboardButton("Да✅")
 net1 = types.KeyboardButton("Нет❌")
